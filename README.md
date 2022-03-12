@@ -5,7 +5,7 @@
    - [backup](https://github.com/MoeMegu/Blog_Backup)
 - [更多糖的介绍](http://www.iyaoniang.cn/hormone/show-3.html)
 - [性别烦躁指南](https://genderdysphoria.fyi/zh/)
-
+- [一个 lgbtqiapk+ friendly minecraft server](https://catland.top/)
 
 
 <br><br><br><br><br><br>
@@ -18,7 +18,7 @@
    </summary>
 
    <ul>
-      <li><a href="https://bbs.viva-la-vita.org">性开发</a> <br /> 
+      <li><a href="https://bbs.viva-la-vita.org">开发</a> <br /> 
          <a href="https://github.com/viva-la-vita">源码</a></li>
       <li><a href="https://download.picacomic2022.xyz/" 
              title="PicAcg 哔咔漫画">涩涩的漫画</a></li>
