@@ -5,7 +5,7 @@
    - [backup](https://github.com/MoeMegu/Blog_Backup)
 - [更多糖的介绍](http://www.iyaoniang.cn/hormone/show-3.html)
 - [性别烦躁指南](https://genderdysphoria.fyi/zh/)
-- [一个 lgbtq friendly Minecraft 社区](https://catland.top/)
+- [一个 Minecraft 伺服器](https://catland.top/)
 
 
 <br><br><br><br><br><br>
