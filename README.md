@@ -20,7 +20,9 @@
 
 <details>
    <summary>
-      不可以涩涩
+      <sub>
+         不可以涩涩 (＞人＜;)
+      </sub>
    </summary>
 
    <ul>
