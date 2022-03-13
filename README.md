@@ -14,7 +14,7 @@
 
 - [想買糖吃 qwq](https://trans.chat/hrt-internet.html)
 <!--    - [**還沒試過** 哪裡買](https://hrt.cafe/) -->
-- [可以自己製藥嗎？ tl; dr 沒辦法](https://nyxus.xyz/posts/diy-hormones/)
+- [可以自己製藥嗎？ tl;dr 沒辦法](https://nyxus.xyz/posts/diy-hormones/)
 
 <br><br><br>
 
