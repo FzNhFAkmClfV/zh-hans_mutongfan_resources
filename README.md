@@ -20,6 +20,21 @@
    </summary>
    <ul>
       <li>
+         Getting Start
+      </li>
+      <ul>
+         <li>
+            <a href="https://transfemscience.org/articles/transfem-intro/#preface">
+               An Introduction to Hormone Therapy for Transfeminine People
+            </a>
+         </li>
+         <li>
+            <a href="https://www.mayoclinic.org/diseases-conditions/menopause/in-depth/hormone-therapy/ART-20046372">
+               Hormone Therapy on Mayo Clinic
+            </a>
+         </li>
+      </ul>
+      <li>
          <a href="https://trans.chat/hrt-internet.html">
             想買糖吃 qwq
          </a>
