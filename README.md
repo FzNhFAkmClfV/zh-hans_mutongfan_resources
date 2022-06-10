@@ -67,6 +67,11 @@
             Reddit yyds
          </a>
       </li> 
+      <li>
+         <a href="https://diytrans.wiki/Main_Page">
+            DIY Trans Wiki
+         </a>
+      </li>
    </ul>
 </details>
 
